@@ -13,7 +13,7 @@ var (
 
 const (
 	user     = "root:"
-	password = "elemie@/"
+	password = "GopherVsT-Rex@/"
 	dbname   = "CRUD?parseTime=true"
 )
 
